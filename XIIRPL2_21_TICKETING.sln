@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XIIRPL2_21_TICKETING", "XIIRPL2_21_TICKETING\XIIRPL2_21_TICKETING.csproj", "{B1E5098C-D774-49EF-BEAF-952B3F80FA01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1E5098C-D774-49EF-BEAF-952B3F80FA01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E5098C-D774-49EF-BEAF-952B3F80FA01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E5098C-D774-49EF-BEAF-952B3F80FA01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E5098C-D774-49EF-BEAF-952B3F80FA01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5D5AECF-2114-4500-9DD7-D6D288A9FCDD}
+	EndGlobalSection
+EndGlobal
